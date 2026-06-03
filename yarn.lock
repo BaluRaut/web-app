@@ -5665,9 +5665,9 @@ icss-utils@^5.0.0, icss-utils@^5.1.0:
   integrity sha512-soFhflCVWLfRNOPU3iv5Z9VUdT44xFRbzjLsEzSr5AQmgqPMTHdU3PMT1Cf1ssx8fLNJDA1juftYl+PUcv3MqA==
 
 idb-keyval@^6.2.1:
-  version "6.2.4"
-  resolved "https://registry.yarnpkg.com/idb-keyval/-/idb-keyval-6.2.4.tgz#9f6c374b9570264fea9005a554adc81eba723cad"
-  integrity sha512-D/NzHWUmYJGXi++z67aMSrnisb9A3621CyRK5G89JyTlN13C8xf0g04DLxUKMufPem3e3L2JAXR6Z00OWy183Q==
+  version "6.2.5"
+  resolved "https://registry.yarnpkg.com/idb-keyval/-/idb-keyval-6.2.5.tgz#fce562b07de93507de5ebf89dac9fd8795a9dcea"
+  integrity sha512-eKQkTnS0relYsSOYomx8ozIbmdsQCKUdhyuIaQ2DZgKuaxtyQQMkyD/wlnQN32pO3yutN1b1L8uqwcDKaJd7/Q==
 
 idb@^7.0.1:
   version "7.1.1"
